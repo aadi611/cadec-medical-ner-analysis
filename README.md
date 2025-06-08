@@ -267,7 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: Aadityan Gupta
 - **Email**: aadityan.gupta@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/aadityangupta/]
-- **Project Link**: [https://github.com/yourusername/cadec-medical-ner-analysis](https://github.com/yourusername/cadec-medical-ner-analysis)
+- **Project Link**: [https://github.com/aadi611/cadec-medical-ner-analysis]
+                    (https://github.com/aadi611/cadec-medical-ner-analysis)
 
 ---
 
