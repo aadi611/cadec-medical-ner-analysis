@@ -58,7 +58,7 @@ nvcc --version  # Verify CUDA installation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cadec-medical-ner-analysis.git
+git clone https://github.com/aadi611/cadec-medical-ner-analysis.git
 cd cadec-medical-ner-analysis
 ```
 
@@ -245,9 +245,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{cadec_ner_analysis,
   title={CADEC Medical NER Analysis: GPU-Accelerated Medical Entity Recognition},
-  author={Your Name},
+  author={Aadityan Gupta},
   year={2025},
-  url={https://github.com/yourusername/cadec-medical-ner-analysis}
+  url={https://github.com/aadi611/cadec-medical-ner-analysis}
 }
 ```
 
