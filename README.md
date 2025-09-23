@@ -9,7 +9,7 @@
 
 ## 🎯 Overview
 
-This project implements a complete pipeline for medical Named Entity Recognition (NER) on the CADEC (Consumer Analysis of Drug Events and Concerns) dataset. It uses state-of-the-art transformer models optimized for GPU acceleration to identify and classify medical entities in consumer-generated text.
+This project provides a full pipeline for medical Named Entity Recognition (NER) using the CADEC (Consumer Analysis of Drug Events and Concerns) dataset. It leverages cutting-edge transformer models, optimized for GPU performance, to detect and categorize medical entities in user-generated content.
 
 ### Key Features
 
