@@ -130,7 +130,7 @@ class CADECEvaluator:
     def parse_prediction_file(self, filepath):
         """
         Parse prediction file (same format as original)
-        Format: T1	ADR 9 19	bit drowsy
+        Format: T1	ADR 9     19	bit  drowsy
         
         Args:
             filepath (str): Path to prediction file
